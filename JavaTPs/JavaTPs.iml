@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/TP1" isTestSource="false" packagePrefix="ma.education.tp1" />
+      <sourceFolder url="file://$MODULE_DIR$/TP2" isTestSource="false" packagePrefix="ma" />
+      <sourceFolder url="file://$MODULE_DIR$/TP3" isTestSource="false" packagePrefix="ma.education.tp4" />
+      <sourceFolder url="file://$MODULE_DIR$/TP4" isTestSource="false" packagePrefix="ma.education.tp.abstarctkeyword" />
+      <sourceFolder url="file://$MODULE_DIR$/TP5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TP7" isTestSource="false" packagePrefix="ma.education.tp6.annotations" />
+      <sourceFolder url="file://$MODULE_DIR$/TP8" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
